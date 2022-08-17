@@ -1,5 +1,5 @@
 ---
-title: "R markdown - How To Import An Excel File"
+title: "R markdown - Tutorial 1 How To Import An Excel File"
 author: "Faith Kabanda"
 date: "2022-07-25"
 output:
